@@ -1,0 +1,26 @@
+こんにちは
+
+【これについて】
+これはシス研の公式ロゴをいろんな形式でまとめたファイルです。
+今まで何故か僕しかデータを持っていなかったので，この度行われる「シス研ロゴムービーコンテスト」に向けて公開しました。
+
+【入っているファイル】
+・SYSKEN logo.ai - Illustrator用ファイル
+・SYSKEN logo.eps - 割といろんなプログラムで開けるベクタデータファイル
+・SYSKEN logo.svg - 汎用ベクタデータファイル
+・SYSKEN logo.png - ラスターデータファイル(透過)
+
+【それぞれのファイルについて】
+.ai，.epsについてはそれぞれIllustrator CS2互換になっています。例のCS2をご利用の方はご活用ください。
+また.ai，.eps，.svgについては白いロゴが見やすいように背景に黒目の長方形オブジェクトを配置しています。これについては必要なければ削除してください。.pngについては透過情報が必要となるのでそのような対処は行っていません。
+サイズ等については昔適当に作ったものなのであまり参考にしないでください。勝手に大きくしたり小さくしてくれて構いません。ただしメインロゴ「SYSKEN」とサブ文字「we create the next」「Tsuyama National College of Technology」の相対的な大きさは変更しないでください。
+
+【フォントについて】
+メインの「SYSKEN」の部分のフォントはHanzelというフォントを使用しています。
+http://www.fontpalace.com/font-details/Hanzel+Normal/
+このフォントはHandel(http://jp.ffonts.net/Handel-Gothic-BT.font)というアイマスのロゴに使われているフォントのコピー品です(よく似ているが少し違うフォント)。
+また「we create the next」や「Tsuyama National College of Technology」の部分についてはArialを使用しています。ArialはWindowsにもMacにも標準で入っているフォントです。
+「we create the next」について先頭の文字は大文字ではなく「小文字」を使用しており，末尾に「.(ドット)」もつきません。この部分については，「よく変わることがある(旧･シス研Wiki)」とのことですがこれ以外のバージョンを見たことがない気がします。
+「Tsuyama National College of Technology」については「of」の部分が小文字なことに注意してください。
+
+2014.02.21 神崎 拓人 a.k.a. じゅりあん
